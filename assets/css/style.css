@@ -10,9 +10,7 @@
     background-color: #fff;
 }
 
-.bg-color-personal-info {
-    background-color: #f4f4f4;
-}
+
 
 .bg-color-work-history {
     background-color: #9b59b6;
@@ -226,7 +224,7 @@ footer .cv-pdf i:hover {
 
 .three-reasons-icons {
     font-size: 26px;
-    color: #e67e22
+    color: #e67e22;
 }
 
 .three-reasons-heading {
