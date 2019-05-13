@@ -18,6 +18,10 @@
     background-color: #9b59b6;
 }
 
+.bg-color-contact {
+    background-color: #fff;
+}
+
 
 .ui-menu-color-home {
     background-color: #e67e22;
@@ -162,7 +166,7 @@ h4 {
 .hvr-sweep-to-bottom:before {
     background: rgba(0, 0, 0, 0.2);
     height: 120px;
-    float: none;
+    
 }
 
 
@@ -266,15 +270,6 @@ footer .cv-pdf i:hover {
     width: 60%;
 }
 
-/*--------------------------------------------Media Queries*/
-
-@media(min-width: 992px) {
-  .section-column { 
-   padding: 0 30px 30px;
-   float: none;
-   display: table-cell;
-  }
-}
 
 /* ----------------------------------------Skills */
 
@@ -343,4 +338,37 @@ footer .cv-pdf i:hover {
 
 .history-items {
     margin-bottom: 30px;
+}
+
+/* ----------------------------------------Contact Form */
+
+.contact-heading {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+.center-form {
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+}
+
+button[type="submit"] {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color: #fafafa;
+    background-color: #e84610;
+}
+
+/* ----------------------------------------Media Queries */
+
+@media(min-width: 992px) {
+    .center-form {
+        padding-top: 30px;
+        min-height: 240px;
+        margin: 0 auto;
+        max-width: 50%;
+    }
 }
