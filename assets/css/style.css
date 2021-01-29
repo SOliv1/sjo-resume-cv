@@ -3,7 +3,7 @@
 /*--------------------------------------------Colors*/
 
 .bg-color-name-title {
-    background-color: #676767;
+    background-color: #3a3b61;
 }
 
 .bg-color-three-reasons {
@@ -13,7 +13,7 @@
 
 
 .bg-color-work-history {
-    background-color: #9b59b6;
+    background-color: #3a3b61;
 }
 
 .bg-color-contact {
@@ -26,7 +26,7 @@
 }
 
 .ui-menu-color-resume {
-    background-color: #9b59b6;
+    background-color:#3a3b61;
 }
 
 .ui-menu-color-contact {
@@ -92,7 +92,7 @@ h4 {
 }
 
 .logo {
-    background: url("../images/rosie.jpg");
+    background: url("../images/img_3210.JPG");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -171,7 +171,7 @@ h4 {
 /*--------------------------------------------footer*/
 
 footer {
-    background-color: #525252;
+    background-color: #3a3b61;
     color: #fafafa;
     min-height: 120px;
     margin: 0;
