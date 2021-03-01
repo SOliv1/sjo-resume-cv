@@ -142,10 +142,9 @@ header {
     color:  #FFF;
 }
 
-.section-heading uppercase,
-.id-blk {
+/*.section-heading .uppercase,.lead-blk {
     color: black;
-}
+}*/
 
 
 /* this .list-inline-item:not(:last-child) and next item .menucontainer not in new code */
