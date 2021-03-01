@@ -146,7 +146,11 @@ header {
     color: black;
 }*/
 
-
+a {
+    color: #3a3b61;
+    text-decoration: none;
+    background-color: #0000;
+}
 /* this .list-inline-item:not(:last-child) and next item .menucontainer not in new code */
 
 .list-inline-item:not(:last-child)  {
