@@ -21,4 +21,4 @@ Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
 To watch some training videos, visit http://www.youtube.com/user/c9ide
 
 [![Jekyll site CI](https://github.com/SOliv1/sjo-resume-cv/actions/workflows/jekyll.yml/badge.svg)](https://github.com/SOliv1/sjo-resume-cv/actions/workflows/jekyll.yml)
-[![Build Status](https://travis-ci.com/SOliv1/sjo-resume-cv.svg?branch=master)](https://travis-ci.com/SOliv1/sjo-resume-cv)
+
