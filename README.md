@@ -22,4 +22,4 @@ To watch some training videos, visit http://www.youtube.com/user/c9ide
 
 [![Jekyll site CI](https://github.com/SOliv1/sjo-resume-cv/actions/workflows/jekyll.yml/badge.svg)](https://github.com/SOliv1/sjo-resume-cv/actions/workflows/jekyll.yml)
 [![CI](https://github.com/SOliv1/sjo-resume-cv/actions/workflows/main.yml/badge.svg)](https://github.com/SOliv1/sjo-resume-cv/actions/workflows/main.yml)
-
+[![Build Status](https://app.travis-ci.com/SOliv1/sjo-resume-cv.svg?branch=master)](https://app.travis-ci.com/SOliv1/sjo-resume-cv)
