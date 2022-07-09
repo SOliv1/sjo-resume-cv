@@ -5,7 +5,7 @@ My Resume modified - from **Code Institute UCD resume**
 
 In this excercise we begin by opening our workspace and adding git to keep track.
 
-1) Once we did that we proceeded to upload profile image  "Rosie"
+1) Once we did that we proceeded to upload profile image, in my case "Sara"
 
 2) Then we moved on to get our title and name in place. 
 3) Saved the changes and previewed our website by  cmd R or "hard" cmd + shift R
