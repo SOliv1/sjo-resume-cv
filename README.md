@@ -1,5 +1,7 @@
-        # Mini Project 
-     ## UCD resume
+# Mini Project 
+## UCD resume
+
+View live site on Github pages [HERE](https://soliv1.github.io/sjo-resume-cv/)
 
 My Resume modified - from **Code Institute UCD resume**
 
